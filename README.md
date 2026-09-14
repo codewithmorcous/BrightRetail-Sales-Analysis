@@ -47,14 +47,17 @@ I wanted a portfolio project that shows I can do more than just make pivot table
 **UPI is winning.** Most used payment method at 728 orders. Cash is dying (only 436 orders).
 
 ## Files in this repo
-├── BrightRetail_Sales_Analysis.xlsx # Main workbook
+├── BrightRetail_FY2025_cleaned.xlsx # Main workbook
 ├── BrightRetail_FY2025_Sales.csv # Raw data
 ├── README.md
-└── screenshots/
-├── charts.png
-├── analysis.png
-└── pivot_tables.png
+### Monthly Revenue Trend
+![Monthly Revenue Trend](screenshots/Monthly_revenue_trend.png)
 
+### Revenue by Category
+![Revenue by Category](screenshots/Revenue_by_category.png)
+
+### KPI Summary
+![KPI Summary](screenshots/KPI_summary.png)
 
 ## What's in the Excel file
 
