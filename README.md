@@ -78,7 +78,7 @@ If I had more time or a real business context, I'd look at:
 
 Mohd — learning data analytics, building projects, looking for my first role.
 
-GitHub: [@Codewithnexusx](https://github.com/Codewithnexusx)
+GitHub: [@Codewithnexusx](https://github.com/Codewithmorcous)
 
 ---
 
